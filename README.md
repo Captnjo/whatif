@@ -1,5 +1,7 @@
 # whatif
 
+Settling an argument in the group chat.
+
 Streamlit toy: $1M today vs $10/pushup for life, both invested at x%/year.
 
 ## Run
